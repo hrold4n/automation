@@ -1,0 +1,17 @@
+#salir{
+	padding-right: 50px;
+}
+
+#inicio{ /* color para la palabra "Demo" */
+	color: #337ab7;
+}	
+
+#usuario_logueado{
+	/*color: #337ab7;*/	
+	color: #FE9A2E;/* antes*/
+}
+
+.footer{ /* posición y alineación del párrafo CDA */
+  padding-top: 7%;
+  text-align: center;
+}
